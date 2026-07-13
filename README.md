@@ -44,5 +44,9 @@ Podes ver o meu projeto de final de curso, onde apliquei todo o meu conhecimento
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <strong>Email:</strong> mar.costacode@gmail.com
+  <a href="mailto:mar.costacode@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  mar.costacode@gmail.com
 </p>
