@@ -8,7 +8,7 @@
 
 Sou um **Junior Fullstack Developer** baseado em Portugal, apaixonado por transformar desafios em soluções web elegantes e funcionais.
 
-*   🎓 **Formação:** Finalista do curso de Programação Web Fullstack (com foco em PHP e JavaScript).
+*   🎓 **Formação:** Finalista do curso de Programação Web Fullstack na academia CodeMaster (com foco em PHP e JavaScript).
 *   🌱 **Áreas de Interesse:** Desenvolvimento Web (Frontend e Backend), Bases de Dados, UI/UX e Resolução de Problemas.
 *   ⚡ **Filosofia:** "Sempre a aprender e pronto para novos desafios".
 *   📍 **Localização:** Aveiro/Oliveira de Azeméis, Portugal.
