@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Marco%21+%F0%9F%91%8B;Junior+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&center=true&vCenter=true&lines=Ol%C3%A1%2C+sou+o+Marco%21+%F0%9F%91%8B;Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,7 +30,6 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### Backend & Base de Dados
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
