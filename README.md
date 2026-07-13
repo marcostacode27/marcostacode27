@@ -1,4 +1,4 @@
-# Olá, sou o Marco Costa! 👋
+# Olá, sou o Marco! 👋
 
 Sou um **Junior Fullstack Developer** baseado em Portugal, apaixonado por transformar desafios em soluções web. Tenho vindo a aprofundar os meus conhecimentos em desenvolvimento web com foco na criação de aplicações funcionais e responsivas.
 
