@@ -40,9 +40,15 @@ Podes ver o meu projeto de final de curso, onde apliquei todo o meu conhecimento
 ## 📫 Vamos conectar?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marcostacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcostacode" height="30" width="30" /></a>
-<a href="mailto:mar.costacode@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mar.costacode@gmail.com" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/marcostacode" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mar.costacode@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+   mar.costacode@gmail.com
 </p>
-
 ---
 *Sempre a aprender e pronto para novos desafios na área de programação.*
