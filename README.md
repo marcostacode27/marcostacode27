@@ -51,7 +51,7 @@ Este projeto foi o culminar da minha formação, onde apliquei todo o conhecimen
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Contacta-me!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/marcostacode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcostacode" height="30" width="30" /></a>
