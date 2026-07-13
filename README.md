@@ -48,7 +48,6 @@ Este projeto foi o culminar da minha formação, onde apliquei todo o conhecimen
 *   **Repositório:** [Repositório do Projeto Final Fullstack](https://github.com/marcostacode27/projeto-final-fullstack)
 *   **Descrição:** Aplicação web desenvolvida com PHP, MySQL e JavaScript. Focada na gestão eficiente de base de dados, integração de backend/frontend e design responsivo.
 
-*(Podes adicionar mais projetos aqui no futuro)*
 
 ---
 
