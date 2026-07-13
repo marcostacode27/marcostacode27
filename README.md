@@ -44,11 +44,5 @@ Podes ver o meu projeto de final de curso, onde apliquei todo o meu conhecimento
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:mar.costacode@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-   mar.costacode@gmail.com
+  <strong>Email:</strong> mar.costacode@gmail.com
 </p>
----
-*Sempre a aprender e pronto para novos desafios na área de programação.*
